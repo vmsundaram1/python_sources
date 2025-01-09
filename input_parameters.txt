@@ -1,0 +1,7 @@
+email_id		product_code	score
+msundar.ms@gmail.com 	123		100
+xyz1@hotmail.com	145		59
+abc1@rediffmail.com     89		78
+sandeep@gmail.com	101		89
+myfriends@yahoo.com	148		75
+x_y_z_1@lycos.com	198		67

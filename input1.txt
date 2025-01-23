@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=XaDv2ucb9C8
+original_string = &quot;Hello, World!&quot;
+utf8_string = original_string.encode('utf-8')
+original_string = &quot;Hello, World!&quot;
+utf8_bytes = bytes(original_string, 'utf-8')
+original_string = &quot;Hello, World!&quot;
+utf8_string_str_encode = str.encode(original_string, 'utf-8')
+https://www.regular-lot.com and it has many simple websites like 
+http://www.url-locator.com, 
+https://www.indigo.in
+https://www.spicejet.com/first_instance/get.txt
+moreover, we have other links such as http://airbnb.com, https://agencygrand.in
